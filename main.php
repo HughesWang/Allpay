@@ -14,8 +14,6 @@
 	
 	require_once PHT_BASE_PATH.'/Functions.php';
 
-	require_once ARCRMA_PATH.'/test/ArcrmaUnitTest.class.php';
-
 	require_once ALLPAY_PATH.'/test/AllpayUnitTest.class.php';
 
 	try {
